@@ -461,7 +461,7 @@ async def node_connect():
     await bot.wait_until_ready()
     bot.wavelink = await wavelink.NodePool.create_node(bot=bot,host="54.38.198.24", port=88, password="stonemusicgay")
 
-credentials = {"user": "postgres.vgzkzwbveamllpfwrcso", "password": "H(RXv4s/~.B&aHt", "database": "postgres", "host": "aws-0-us-east-1.pooler.supabase.com"}
+credentials = {"user": "", "password": "", "database": "postgres", "host": ""}
         
 shard_count = 1
 intents = discord.Intents.all()
