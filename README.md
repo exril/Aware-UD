@@ -1,4 +1,4 @@
-# Aware-UD
+# God or Versatility 
 Aware's Current Source Code [ Python ]
 
 - The code was made public because i got bored with discord bots lol
@@ -18,3 +18,5 @@ Aware's Current Source Code [ Python ]
 - https://shxbham.dev/
 - wwzp@proton.me
 - shubham@gatewaybot.org
+
+Thanks for all the support you guys gave to my projects , I will surely miss these days but discord bots wont get me a job lol
